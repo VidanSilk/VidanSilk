@@ -27,10 +27,10 @@ My Dream is Game Developer & Software Engineer <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"> </p>
 
 <!-- Language Ranking -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidanSilk&layout=compact&thema=algolia) <br>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VidanSilk&layout=compact&thema=algolia) <br>
 
 <!-- Github Stat Card-->
-[![VidanSilk's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidanSilk)](https://github.com/VidanSilk/github-readme-stats)
+[![VidanSilk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VidanSilk)](https://github.com/VidanSilk/github-readme-stats)
 
 <!-- Github Stat Card-->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuseng0721)](https://solved.ac/yuseng0721)
