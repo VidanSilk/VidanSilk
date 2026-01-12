@@ -34,3 +34,10 @@ My Dream is Game Developer & Software Engineer <br>
 
 <!-- Github Stat Card-->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuseng0721)](https://solved.ac/yuseng0721)
+
+
+------------------------------------------------------------------------------
+## Education
+1. Yonsei University at Mirae Campus - BEng. in Computer Engineering <2021.03 ~ 2025.08> 
+2. Academic Credit Bank System, ACBS - BEng. in Computer Engineering <2018.03 ~ 2020.02> 
+
