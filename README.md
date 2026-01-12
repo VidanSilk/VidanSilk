@@ -9,22 +9,22 @@ I studied at Yonsei University Mirae Campus and graduated <br>
 My Dream is Game Developer & Software Engineer <br>
 
 <p>
-<img src="https://img.shields.io/badge/yung9907@yonsei.ac.kr-FFFFFF?style=flat-square&logo=Gmail&logoColor=EA4335"> 
+<img src="https://img.shields.io/badge/yung9907@yonsei.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"> 
 </p>
 
 -------------------------------------------------------------------------------------
 ### Tech
 <p>
-<img src="https://img.shields.io/badge/c++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C"> 
-<img src="https://img.shields.io/badge/unrealengine-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=0E1128"> </p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF"> </p>
 
 <p>
-<img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"> 
-<img src="https://img.shields.io/badge/pytorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> </p>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"> </p>
 
 <p>
-<img src="https://img.shields.io/badge/git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"> </p>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"> </p>
 
 <!-- Language Ranking -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidanSilk&layout=compact&thema=algolia) <br>
