@@ -1,7 +1,7 @@
 <!-- header -->
-<p align = 'center'> 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=B26CD8&fontColor=FFFFFF&height=250&section=header&text=This+is+YuSung's+GitHub&fontSize=40" />
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=B26CD8&fontColor=FFFFFF&height=300&section=header&text=This+is+YuSung's+GitHub&fontSize=45" />
+
 
 ## Introduce My Github
 I'm Yu-Sung Jeon. <br>
@@ -26,7 +26,6 @@ My Dream is Game Developer & Software Engineer <br>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"> </p>
 
-<!-- Github Stat Card & Language Ranking-->
 [![VidanSilk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VidanSilk)](https://github.com/VidanSilk/github-readme-stats)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VidanSilk&layout=compact&thema=algolia)
 
