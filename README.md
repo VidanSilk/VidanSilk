@@ -9,8 +9,7 @@ I studied at Yonsei University Mirae Campus and graduated <br>
 My Dream is Game Developer & Software Engineer <br>
 
 <p>
-  
-<a herf="mailto:yung9907@yonsei.ac.kr">
+<a href="mailto:yung9907@yonsei.ac.kr">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"> </a>
 </p>
 
