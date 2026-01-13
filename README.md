@@ -1,6 +1,6 @@
 <!-- header -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=B26CD8&fontColor=FFFFFF&height=300&section=header&text=This+is+YuSung's+GitHub&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=B26CD8&fontColor=FFFFFF&height=300&section=header&text=This+is+YuSung's+GitHub&fontSize=45"/> 
 
 
 ## Introduce My Github
@@ -9,7 +9,9 @@ I studied at Yonsei University Mirae Campus and graduated <br>
 My Dream is Game Developer & Software Engineer <br>
 
 <p>
-<img src="https://img.shields.io/badge/yung9907@yonsei.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"> 
+  
+<a herf="mailto:yung9907@yonsei.ac.kr">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"> </a>
 </p>
 
 -------------------------------------------------------------------------------------
@@ -35,6 +37,6 @@ My Dream is Game Developer & Software Engineer <br>
 
 ------------------------------------------------------------------------------
 ## Education
-1. Yonsei University at Mirae Campus - BEng. in Computer Engineering <2021.03 ~ 2025.08> 
-2. Academic Credit Bank System, ACBS - BEng. in Computer Engineering <2018.03 ~ 2020.02> 
+1. Yonsei University at Mirae Campus, Wonju, Republic of Korea - BEng. in Computer Engineering (Transfer Admission) <2021.03 ~ 2025.08> 
+2. Academic Credit Bank System, ACBS, Seoul, Republic of Korea - BEng. in Computer Engineering <2018.03 ~ 2020.02> 
 
